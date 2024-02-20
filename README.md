@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvanchivel&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvanchivel" /> </p>
 
-- 🔭 I'm in my third year studying Bachelor of Computer Science and Design.**
+- 🔭 I'm in my third year studying Bachelor of Computer Science and Design.
 
 - 🌱 I’m currently learning **Dart.**
 
