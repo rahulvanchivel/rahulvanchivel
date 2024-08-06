@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Vanchivel</h1>
-<h3 align="center">Bridging Design and Development: UI/UX Designer & Frontend Enthusiast</h3>
+<h3 align="center">AR/VR Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvanchivel&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvanchivel" /> </p>
 
 - 🔭 I'm in my final year studying Bachelor of Computer Science and Design.
-
-- 🌱 I’m currently learning **Dart.**
 
 - 👨‍💻 My Portfolio [https://www.rahulvanchivel.in](https://www.rahulvanchivel.in)
 
