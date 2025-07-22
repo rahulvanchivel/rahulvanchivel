@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulvanchivel@gmail.com**
 
-- 📄 My Resume [[https://rahulvanchivel.in/images/Rahul%20Vanchivel%20N%20-%20Resume.pdf](https://rahulvanchivel.in/images/Rahul%20Vanchivel%20N%20-%20Resume.pdf)](https://rahulvanchivel.in/images/Rahul%20Vanchivel%20Unity%20Developer%20Resume.pdf)
+- 📄 My Resume (https://rahulvanchivel.in/images/Rahul%20Vanchivel%20N%20-%20Resume.pdf)](https://rahulvanchivel.in/images/Rahul%20Vanchivel%20Unity%20Developer%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
